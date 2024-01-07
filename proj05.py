@@ -1,6 +1,4 @@
 # Uncomment the following lines if you run the optional run_file tests locally
-# so the input shows up in the output file. Do not copy these lines into Codio.
-#
 #import sys
 #def input( prompt=None ):
 
