@@ -1,16 +1,7 @@
-# Uncomment the following lines if you run the optional run_file tests locally
-#import sys
-#def input( prompt=None ):
 
- #   if prompt != None:
-  #     print( prompt, end="" )
-   # aaa_str = sys.stdin.readline()
-    #aaa_str = aaa_str.rstrip( "\n" )
-    #print(aaa_str)
-    #return aaa_str
 #
 ''' ###########################################################
-#  Computer Project #5
+#  
 #
 # Algorithm
 #  Program that can automatically suggest possible new connections
